@@ -75,3 +75,5 @@ git clone https://github.com/rishavnandy/Plant-Disease-Detection-AI-main
 cd Plant-Disease-Detection-AI
 
 pip install -r requirements.txt
+
+Project live on: https://plant-disease-detection-ai-main.streamlit.app
